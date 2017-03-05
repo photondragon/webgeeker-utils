@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "WebGeeker\\Utils": "src/Utils/"
+            "WebGeeker\\Utils\\": "src/Utils/"
         }
     },
     "require": {
